@@ -31,19 +31,6 @@ I'm a **B.Tech student in Computer Science & Engineering (Software Engineering)*
 
 ---
 
-## 💼 Experience
-
-**🚀 Co-Founder & Vice President — HRCC SRM** *(Jul 2025 – Present)*
-> Co-founded a student-led club connecting industry professionals with students. Drove 800+ student registrations, established collaborations with Centers of Excellence and corporate partners, and led end-to-end event delivery — from speaker coordination to logistics and feedback.
-
-**🔬 Undergraduate Researcher (UROP) — Digital Payments Analytics** *(Sep 2025 – Present)*
-> Analyzing UPI transaction data across districts to study digital payment adoption, usage intensity, and regional variation.
-
-**🎯 Committee Member — National-Level Techno-Management Fest** *(May 2024 – Present)*
-> Coordinated a team of 30+ members for a national-level fest, managing logistics and operations for 100+ participating teams under tight deadlines.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -83,16 +70,6 @@ I'm a **B.Tech student in Computer Science & Engineering (Software Engineering)*
 
 ---
 
-## 🏅 Certifications & Achievements
-
-- ☁️ **Oracle Cloud Infrastructure 2025** — Certified Generative AI Professional
-- 🤖 **Google AI-ML (AICTE)** — Received internship opportunity based on program performance
-- 🥇 **Ideathon Challenge Winner** — Placed in the top 8% nationwide in the AlgoUniversity Fellowship
-- 📊 **NPTEL Topper** | Three-year diploma in Arts | A1 German proficiency
-- 🎨 **Goethe-Institut COVID Awareness Exhibition** — Collaborated with artist Gaurav (Art Attacker) and Goethe-Institut to design awareness material
-- 📚 Six consecutive years as top academic performer at Delhi Public School
-
----
 
 ## 🎯 Areas of Interest
 
@@ -112,14 +89,6 @@ I'm a **B.Tech student in Computer Science & Engineering (Software Engineering)*
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=TanviKabi1&theme=dracula&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviKabi1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=TanviKabi1&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
