@@ -16,21 +16,23 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e1b4b,100:312e81&height=320&section=header&text=&fontSize=0"/>
+<table>
+<tr>
 
-</div>
+<td width="60%" valign="top">
 
-<div align="center">
+<div align="left">
 
 ```typescript
 ╔══════════════════════════════════════════════════════════════╗
 ║  ░▒▓█ SYSTEM INITIALIZED █▓▒░                              ║
-║  > loading developer profile...                            ║
-║  > neural networks engaged                                ║
+║  > machine learning modules activated                      ║
+║  > loading research systems...                             ║
 ║  > cryptic aesthetic mode enabled                          ║
 ╚══════════════════════════════════════════════════════════════╝
 
 const tanvi = {
+
     interests: [
         "Machine Learning 🤖",
         "Artificial Intelligence 🧠",
@@ -46,7 +48,8 @@ const tanvi = {
         "Cloud Systems ☁️"
     ],
 
-    mindset: "Turning chaotic ideas into real-world projects ✨"
+    mindset:
+        "Turning chaotic ideas into real-world projects ✨"
 };
 
 while(alive) {
@@ -55,6 +58,41 @@ while(alive) {
     evolve();
 }
 ```
+
+</div>
+
+</td>
+
+<td width="40%" align="center">
+
+<div style="
+background: linear-gradient(135deg, #89CFF0, #A7C7E7, #CDB4DB, #B8F2E6);
+border-radius: 24px;
+padding: 20px;
+height: 520px;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 0 0 25px rgba(99,102,241,0.35);
+">
+
+<img 
+src="https://raw.githubusercontent.com/TanviKabi1/TanviKabi1/main/main.gif"
+width="100%"
+style="border-radius: 18px;"
+/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 
 </div>
 
