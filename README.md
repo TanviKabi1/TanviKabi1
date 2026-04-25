@@ -261,14 +261,13 @@ class Developer {
 </div>
 
 ---
-
 ## 🎵 Currently Vibing To
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/search/missing%20piece)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/25DOfzfpERYnUtEauoZgNA)
 
-**🎧 Missing Piece**
+**🎧 Missing Piece — John Michael Howell**
 
 </div>
 
