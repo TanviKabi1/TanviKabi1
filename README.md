@@ -14,53 +14,49 @@
 
 ## 🌟 About Me
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e1b4b,100:312e81&height=320&section=header&text=&fontSize=0"/>
+
+</div>
+
+<div align="center">
+
 ```typescript
-class Developer {
-    name = "Tanvi Kabi";
-    location = "India 🇮🇳";
-    
-    role = [
-        "Co-Founder & Vice President @ HackerRank Club",
-        "Full Stack Developer",
-        "Tech Community Builder"
-    ];
+╔══════════════════════════════════════════════════════════════╗
+║  ░▒▓█ SYSTEM INITIALIZED █▓▒░                              ║
+║  > loading developer profile...                            ║
+║  > neural networks engaged                                ║
+║  > cryptic aesthetic mode enabled                          ║
+╚══════════════════════════════════════════════════════════════╝
 
-    exploring = [
-        "Artificial Intelligence",
-        "System Design",
-        "Full Stack Development",
-        "Creative Tech Experiences"
-    ];
+const tanvi = {
+    interests: [
+        "Machine Learning 🤖",
+        "Artificial Intelligence 🧠",
+        "System Design ⚡",
+        "Creative UI/UX 🎨",
+        "Scalable Applications ☁️"
+    ],
 
-    currentlyBuilding = [
-        "TechAtlas 🌍",
-        "AI-powered platforms 🤖",
-        "Cloud-based projects ☁️"
-    ];
+    currentlyWorkingOn: [
+        "UROP Research Project 🔬",
+        "Smart Carpooling Research Paper 📄",
+        "AI-powered Platforms 🚀",
+        "Cloud Systems ☁️"
+    ],
 
-    hobbies = [
-        "Creating random ideas at 2AM ✨",
-        "Hackathons ⚡",
-        "Designing aesthetic UIs 🎨",
-        "Tech events 🎤"
-    ];
+    mindset: "Turning chaotic ideas into real-world projects ✨"
+};
 
-    dailyRoutine = [
-        "☕ caffeine",
-        "💻 coding",
-        "🐛 debugging",
-        "🚀 building"
-    ];
-
-    funFact(): string {
-        return "Half my ideas start as chaos and somehow become projects 🚀";
-    }
-
-    currentMood(): string {
-        return "Somewhere between 'this is impossible' and 'wait... it works?!' 🤔";
-    }
+while(alive) {
+    learn();
+    build();
+    evolve();
 }
 ```
+
+</div>
 
 ---
 
@@ -69,6 +65,14 @@ class Developer {
 ### 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanviKabi1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-kabi-44582b364/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvi.kabi@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanvikabi/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/taikvlogs/)
 
 </div>
 
@@ -201,22 +205,6 @@ class Developer {
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TanviKabi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=TanviKabi1&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviKabi1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
-
-</div>
-
----
-
 
 ## 📈 Contribution Stats
 
@@ -232,7 +220,7 @@ class Developer {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/TanviKabi1/TanviKabi1/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/TanviKabi1/TanviKabi1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -265,10 +253,15 @@ class Developer {
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/25DOfzfpERYnUtEauoZgNA)
+<a href="https://open.spotify.com/track/25DOfzfpERYnUtEauoZgNA">
+  <img src="https://img.shields.io/badge/Spotify-Missing%20Piece-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
-**🎧 Missing Piece — John Michael Howell**
+<br/><br/>
+
+🎧 **Missing Piece — John Michael Howell**
 
 </div>
+
 
 ---
