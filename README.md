@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=190&section=header&text=Hey%20there,%20I'm%20Tanvi%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20creative%20tech%20with%20chaos%20and%20curiosity%20✨&descSize=16&descAlignY=52" width="100%"/>
 
-### 🚀 Full Stack Developer | AI Explorer | Creative Builder
+### 🚀Developer | AI Explorer | Creative Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F8BBD0&center=true&vCenter=true&width=700&lines=console.log(%22Hey+there!%22);Co-Founder+%26+VP+%40+HackerRank+Club+🚀;Building+full-stack+projects+💻;Turning+ideas+into+real+products+✨;while(alive)+%7B+code();+create();+repeat();+%7D;Professional+bug+creator+🐛" alt="Typing SVG" />
 
